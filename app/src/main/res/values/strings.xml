@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleReadSMS</string>
+    <string name="read_all_sms">READ_ALL_SMS</string>
+</resources>
